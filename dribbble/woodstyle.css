@@ -1,0 +1,38 @@
+@import font-family: 'Metal Mania', system-ui;
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #32271a;
+}
+
+.nav {
+  color: aliceblue;
+  display: flex;
+}
+
+.logo {
+  color: #edd580;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  display: flex;
+  font-size: 5vh;
+  justify-content: space-around;
+}
+
+ul {
+  display: flex;
+  padding: 5px;
+}
+
+.img1{
+    width: 90%;
+    margin-top: 45vh;
+    margin-left: 5vw;
+}
+
+.text1{
+    font-family: metal
+}
