@@ -1,2 +1,2 @@
 # Bootstrape
-My first Bootstrape project
+first Bootstrape project
